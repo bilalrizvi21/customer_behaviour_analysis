@@ -42,7 +42,7 @@ The Power BI dashboard includes:
 - Key metrics (total revenue, sales by product/category, customer segmentation)  
 - Visualizations: bar charts, pie charts, and trend lines  
 - Filters for exploring data by time, category, or customer segment
-  ![Dashboard](images/dashboard.png)
+  ![Dashboard](images/Dashboard.png)
 
 
 ---
